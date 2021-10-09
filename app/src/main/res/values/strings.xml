@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeetingApp</string>
+    <string name="tap_on_fingerprint_icon">Tap on Fingerprint icon</string>
+</resources>

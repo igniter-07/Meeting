@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420340598860",
+    "project_id": "video-call-d70bd",
+    "storage_bucket": "video-call-d70bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420340598860:android:6a25b3f27b505fafab4ce9",
+        "android_client_info": {
+          "package_name": "com.example.meetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420340598860-qk83h7j31tlv3i1jk0olf9i2h2258bf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdcBgiyJ1IJWDnMjnA5D1WJeUpejDzJHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420340598860-qk83h7j31tlv3i1jk0olf9i2h2258bf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
